@@ -1,0 +1,22 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WorkingWithResources
+build_property.ProjectDir = C:\Users\lichi\source\repos\WorkingWithResources\WorkingWithResources\
+
+[C:/Users/lichi/source/repos/WorkingWithResources/WorkingWithResources/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WorkingWithResources.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.ItemSpec = C:\Users\lichi\source\repos\WorkingWithResources\WorkingWithResources\App.xaml
+
+[C:/Users/lichi/source/repos/WorkingWithResources/WorkingWithResources/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WorkingWithResources.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.ItemSpec = C:\Users\lichi\source\repos\WorkingWithResources\WorkingWithResources\MainPage.xaml

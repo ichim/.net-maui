@@ -1,0 +1,11 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WorkingWithResources.MainPage"
+             BackgroundColor="{DynamicResource SecondaryColor}">
+    <StackLayout>
+    <Image x:Name="img" Source="/Resources/Images/jogger_1.png"
+       Aspect="AspectFit"
+       HorizontalOptions="Center"/>
+        <Button Text="Rotate" Clicked="clicked"></Button>
+    </StackLayout>
+</ContentPage>
